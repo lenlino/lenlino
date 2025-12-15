@@ -12,20 +12,20 @@
 ### Tools & DevOps
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,idea,pycharm" />
   </a>
 </p>
 
 ### Platforms & Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,nginx,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=discord,nginx,postgres" />
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino)
+![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino&theme=onestar&no-frame=true&row=1&column=7)
 
 ## 📈 GitHub Stats
 
