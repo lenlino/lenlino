@@ -1,24 +1,45 @@
 ### Hi there 👋
 
-<!--
-**lenlino/lenlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenlino&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=lenlino&show_icons=ture" />
+### Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py" />
+  </a>
 </p>
 
-[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino
-)](https://github.com/ryo-ma/github-profile-trophy)
+### Tools & DevOps
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,vscode" />
+  </a>
+</p>
+
+### Platforms & Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,nginx,postgres,mysql" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenlino&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenlino&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+## 📫 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-lenlino-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/lenlino)
+[![X](https://img.shields.io/badge/X-lenlino5-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/lenlino5)
+[![Email](https://img.shields.io/badge/Email-info@lenlino.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:info@lenlino.com)
+[![Discord Server](https://img.shields.io/badge/Discord_Server-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/EGCfGSGRcr)
+
+---
+
+*Building the future, one commit at a time* 💙
