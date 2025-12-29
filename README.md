@@ -25,13 +25,13 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino&theme=onestar&no-frame=true&row=1&column=7)
+![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino&theme=onestar&no-frame=true)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenlino&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=lenlino&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenlino&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=lenlino&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 ## 📫 Connect
 
@@ -41,5 +41,3 @@
 [![Discord Server](https://img.shields.io/badge/Discord_Server-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/EGCfGSGRcr)
 
 ---
-
-*Building the future, one commit at a time* 💙
