@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=lenlino&theme=onestar&no-frame=true)
+![trophy](https://gh-trophy.cdnsoft.net/?username=lenlino&theme=onestar&no-frame=true)
 
 ## 📈 GitHub Stats
 
