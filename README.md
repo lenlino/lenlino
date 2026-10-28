@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://gh-trophy.cdnsoft.net/?username=lenlino&theme=onestar&no-frame=true)
+![trophy](http://trophy.ryglcloud.net/?username=lenlino&theme=onestar&no-frame=true)
 
 ## 📈 GitHub Stats
 
